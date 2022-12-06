@@ -86,7 +86,7 @@ while True:
         print("PILIHAN MENU TIDAK ADA!")
  ~~~
         
-        ![]/SS/Screenshot%20(26).png
+        ![](/SS/Screenshot%20(26).png)
         
         
         
