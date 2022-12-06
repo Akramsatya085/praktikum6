@@ -86,7 +86,7 @@ while True:
         print("PILIHAN MENU TIDAK ADA!")
  ~~~
         
-        ![Screenshot (26)](https://user-images.githubusercontent.com/115615953/205827324-98fe392d-ca62-4a5b-b639-4d9287fab701.png)
+        ![](/SS/Screenshot%20(26).png)
         
         
         ![Screenshot (27)](https://user-images.githubusercontent.com/115615953/205827588-a5e8f225-e87e-4245-a101-15cf267a44a1.png)
