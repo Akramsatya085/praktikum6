@@ -6,6 +6,8 @@ Kelas: TI.22.A4
 
 Praktikum
 
+~~~sh
+
 dataMahasiswa = {}
 
 print("=" * 65)
@@ -82,6 +84,7 @@ while True:
         exit()
     else:
         print("PILIHAN MENU TIDAK ADA!")
+ ~~~
         
         ![Screenshot (26)](https://user-images.githubusercontent.com/115615953/205827324-98fe392d-ca62-4a5b-b639-4d9287fab701.png)
         
