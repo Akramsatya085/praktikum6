@@ -88,12 +88,12 @@ while True:
  
  
  
-        ![Screenshot (26)](https://user-images.githubusercontent.com/115615953/205833139-849ed6ce-7e42-468d-a52e-c12388f22597.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/115615953/205833139-849ed6ce-7e42-468d-a52e-c12388f22597.png)
         
         
         
         
-        ![Screenshot (27)](https://user-images.githubusercontent.com/115615953/205833291-55a2284a-2050-47c7-a3dc-446163e47799.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/115615953/205833291-55a2284a-2050-47c7-a3dc-446163e47799.png)
 
 
         
